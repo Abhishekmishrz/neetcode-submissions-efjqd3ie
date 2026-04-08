@@ -19,6 +19,16 @@
 
 ---
 
+## Problem Index
+
+| # | Problem | Topic | Difficulty | Language | Approach |
+|---|---|---|---|---|---|
+| 1 | [Two Integer Sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/README.md) | Arrays & Hashing | Easy | JavaScript | Hash Map |
+| 2 | [Duplicate Integer](Data%20Structures%20%26%20Algorithms/duplicate-integer/README.md) | Arrays & Hashing | Easy | JavaScript | Hash Set |
+| 3 | [Is Anagram](Data%20Structures%20%26%20Algorithms/is-anagram/README.md) | Arrays & Hashing | Easy | JavaScript | Sort & Compare |
+
+---
+
 ## Repository structure
 
 Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
